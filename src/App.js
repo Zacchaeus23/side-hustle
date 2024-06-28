@@ -1,9 +1,10 @@
 import './App.css';
+import FunctionalComponent from './components/FunctionalComponent';
 
 function App() {
   return (
     <div className="App">
-      <h1>Side Hustle </h1>
+      <FunctionalComponent />
     </div>
   );
 }
